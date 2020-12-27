@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnerMovementController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemySpawnerController.cs" Line="135" Column="1" />
+      <File FileName="Assets/Scripts/FinishRotator.cs" Line="8" Column="58" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="10" Column="68" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="624" Column="9" />
+      <File FileName="Assets/Scripts/Scores.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShotController.cs" Line="19" Column="30" />
+      <File FileName="Assets/Scripts/SpawnerMovementController.cs" Line="9" Column="115" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

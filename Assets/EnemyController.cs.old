@@ -1,0 +1,24 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class EnemyController : MonoBehaviour {
+
+    //public integar used to set the speed of the enemy as it moves back and forth
+    public int speed;
+
+    //this is used as a flag that is changed upon collision with a wall. Once the object collides, the flag is flipped, and the object reverses direction
+    private bool direction;
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+        transform.Rotate(new Vector3(15, 30, 45) * Time.deltaTime);
+    }
+
+
+}
